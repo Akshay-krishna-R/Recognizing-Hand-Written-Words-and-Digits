@@ -11,7 +11,7 @@ Usman Ahmad
 August 20, 2023
 
 ## Project Manager
-Stanley Chor
+Himshikha Chauhan
 
 ## Project Customer
 Mackenzie Health
