@@ -54,5 +54,6 @@ By adhering to this comprehensive plan, the project aims to revolutionize handwr
 
 🖼️ Here's the final image showcasing the revolutionary handwriting recognition system poised to transform industries with its accuracy and efficiency! 🚀🌟
 
-![Handwriting Recognition](output/Screenshot 2024-02-17 223100.png)
+![Handwriting Recognition]("output/Screenshot 2024-02-17 223100.png")
+
 
