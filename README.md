@@ -53,7 +53,8 @@ By adhering to this comprehensive plan, the project aims to revolutionize handwr
 
 
 🖼️ Here's the final image showcasing the revolutionary handwriting recognition system poised to transform industries with its accuracy and efficiency! 🚀🌟
+![Screenshot 2024-02-17 223100](https://github.com/Akshay-krishna-R/Recognizing-Hand-Written-Words-and-Digits/assets/83361041/794f83f6-e0fd-4c7e-b010-07cc2747f2d3)
 
-![Handwriting Recognition]("output/Screenshot 2024-02-17 223100.png")
+![Handwriting Recognition]
 
 
